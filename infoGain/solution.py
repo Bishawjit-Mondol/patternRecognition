@@ -53,7 +53,7 @@ for datum in range(totalData):
         femaleCount += 1
 
 mainEntropy = entropy(maleCount, femaleCount, totalData)
-print(data)
+#print(data)
 print("Main Entropy: ", mainEntropy)
 
 # hair length section ...
